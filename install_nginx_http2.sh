@@ -1,3 +1,4 @@
+#! /bin/sh
 apt-get install libpcre3 libpcre3-dev libpcrecpp0 libssl-dev zlib1g-dev
 cd /opt
 wget http://nginx.org/download/nginx-1.13.8.tar.gz

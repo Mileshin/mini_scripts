@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # This script deletes clamav files and tightens their latest versions.
 # Author: ekzorchik
 # URL: http://www.ekzorchik.ru/2015/11/i-can-not-update-the-virus-database/
